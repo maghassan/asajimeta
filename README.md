@@ -1,0 +1,2 @@
+# asajimeta
+News Application [Android]
